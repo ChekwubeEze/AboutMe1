@@ -1,0 +1,1 @@
+This is a simple html, css and javascript application. It's all about ME
